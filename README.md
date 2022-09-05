@@ -1,6 +1,6 @@
 # FiveM Roleplay Framework (Modified)
 
-Custom version of qb-core (in production)
+This is a fork of QBCore and heavily modified by me. This is a work in progess so it is not recommended to download and try installing until I update here. Very well will be broken if you try to install while in development.
 
 # License
 
