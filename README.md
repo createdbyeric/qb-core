@@ -1,10 +1,6 @@
-# qb-core
+# FiveM Roleplay Framework (Modified)
 
 Custom version of qb-core (in production)
-
-# qb-core
-
-### [Official QBCore Documentation](https://docs.qbcore.org)
 
 # License
 
